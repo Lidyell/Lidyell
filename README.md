@@ -67,14 +67,6 @@ Atualmente, meu objetivo é me tornar um **Desenvolvedor Full Stack**, com foco 
 />
 <img 
  align="left" 
- alt="Django"
- title="Django" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://www.svgrepo.com/show/373554/django.svg" 
-/>
-<img 
- align="left" 
  alt="FastAPI"
  title="FastAPI" 
  width="30px" 
