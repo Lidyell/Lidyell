@@ -10,23 +10,6 @@ Atualmente, meu objetivo é me tornar um **Desenvolvedor Full Stack**, com foco 
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
- align="left" 
- alt="HTML"
- title="HTML" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="CSS" 
- title="CSS"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
 
 <img 
  align="left" 
@@ -55,23 +38,7 @@ Atualmente, meu objetivo é me tornar um **Desenvolvedor Full Stack**, com foco 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
-<img 
- align="left" 
- alt="Next.js" 
- title="Next.js"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
 
-<img 
- align="left" 
- alt="Tailwind CSS" 
- title="Tailwind CSS"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
 
 <img 
  align="left" 
@@ -91,14 +58,7 @@ Atualmente, meu objetivo é me tornar um **Desenvolvedor Full Stack**, com foco 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img 
- align="left" 
- alt="PHP"
- title="PHP" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+
 
 <img 
  align="left" 
