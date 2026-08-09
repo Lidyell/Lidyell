@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lidyell Rocha
+# Lidyell Rocha
 
 **`Desenvolvedor Full Stack`**
 
