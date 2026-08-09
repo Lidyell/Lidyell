@@ -65,7 +65,7 @@ Atualmente, meu objetivo é me tornar um **Desenvolvedor Full Stack**, com foco 
  alt="Git"
  title="Git" 
  width="30px" 
- style="padding-right: 10px;" 
+ style="padding-right: 10px; " 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
@@ -75,7 +75,7 @@ Atualmente, meu objetivo é me tornar um **Desenvolvedor Full Stack**, com foco 
  title="GitHub" 
  width="30px" 
  style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+ src="https://www.svgrepo.com/show/394174/github.svg" 
 />
 
 <br/>
