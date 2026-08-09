@@ -48,6 +48,14 @@ Atualmente, meu objetivo é me tornar um **Desenvolvedor Full Stack**, com foco 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+<img 
+ align="left" 
+ alt="SpringBoot"
+ title="SpringBoot" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1280px-Spring_Boot.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20230616230349" 
+/>
 
 <img 
  align="left" 
@@ -56,6 +64,22 @@ Atualmente, meu objetivo é me tornar um **Desenvolvedor Full Stack**, com foco 
  width="30px" 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+ align="left" 
+ alt="Django"
+ title="Django" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://www.svgrepo.com/show/373554/django.svg" 
+/>
+<img 
+ align="left" 
+ alt="FastAPI"
+ title="FastAPI" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" 
 />
 
 
@@ -76,6 +100,14 @@ Atualmente, meu objetivo é me tornar um **Desenvolvedor Full Stack**, com foco 
  width="30px" 
  style="padding-right: 10px;" 
  src="https://www.svgrepo.com/show/394174/github.svg" 
+/>
+<img 
+ align="left" 
+ alt="Postman"
+ title="Postman" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://icon.icepanel.io/Technology/svg/Postman.svg" 
 />
 
 <br/>
