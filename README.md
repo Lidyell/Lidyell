@@ -4,7 +4,7 @@
 
 Prazer! Meu nome é **Lidyell**, tenho 17 anos e sou de Juazeiro do Norte - Ceará. Estou no **3º ano do Ensino Médio**, cursando **Informática**.
 
-Atualmente, meu objetivo é me tornar um **Desenvolvedor Full Stack**, com foco em **Java e Python no Backend** e tecnologias modernas no Front-end, como **React, JavaScript e TypeScript**.
+Atualmente, meu objetivo é me tornar um **Desenvolvedor Full Stack**, com foco em **Express, Java e Python no Backend** e tecnologias modernas no Front-end, como **React, JavaScript e TypeScript**.
 
 ---
 
