@@ -28,6 +28,14 @@ Atualmente, meu objetivo é me tornar um **Desenvolvedor Full Stack**, com foco 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+<img 
+ align="left" 
+ alt="Express"
+ title="Express" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
 
 <img 
  align="left" 
