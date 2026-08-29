@@ -90,6 +90,14 @@ Pretendo fazer **Engenharia de Software** ou **Ciência da Computação** para s
  style="padding-right: 10px; " 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+ align="left" 
+ alt="Git"
+ title="PostgreSQL" 
+ width="30px" 
+ style="padding-right: 10px; " 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
 
 <img 
  align="left" 
