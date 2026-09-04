@@ -47,7 +47,7 @@ Pretendo fazer **Engenharia de Software** ou **Ciência da Computação** para s
 <img 
  align="left" 
  alt="TailwindCSS"
- title="React" 
+ title="TailwindCSS" 
  width="30px" 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
