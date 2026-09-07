@@ -1,5 +1,9 @@
 # Lidyell Rocha
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3da52f&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;Python+%7C+FastAPI;JavaScript+%7C+TypeScript+%7C+React" />
+</div>
+
 **`Desenvolvedor Full Stack`**
 
 Prazer! Meu nome é **Lidyell**, tenho 17 anos e sou de Juazeiro do Norte - Ceará. Estou no **3º ano do Ensino Médio**, cursando **Informática**.
