@@ -6,6 +6,7 @@
 
 **`Full Stack Developer`**
 
+# About me
 Hello! My name is **Lidyell**, I'm 17 years old and I'm from Juazeiro do Norte, Ceará, Brazil. I'm currently in my **third year of high school**, studying **Computer Science**.
 
 My current goal is to become a **Full Stack Developer**, focusing on **Java (Spring Boot) and Python (FastAPI) for Backend development**, along with modern Frontend technologies such as **JavaScript, TypeScript, React, and TailwindCSS**.
@@ -16,113 +17,22 @@ I plan to pursue a degree in **Software Engineering** or **Computer Science** an
 
 ### 🤖 Languages & Technologies
 
-<img 
-align="left" 
-alt="JavaScript" 
-title="JavaScript"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 
-<img 
-align="left" 
-alt="TypeScript"
-title="TypeScript" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
 
-<img 
-align="left" 
-alt="React"
-title="React" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
-<img 
-align="left" 
-alt="TailwindCSS"
-title="TailwindCSS" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
 
-<img 
-align="left" 
-alt="Java"
-title="Java" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img 
-align="left" 
-alt="Spring Boot"
-title="Spring Boot" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1280px-Spring_Boot.svg.png" 
-/>
-
-<img 
-align="left" 
-alt="Python"
-title="Python" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-align="left" 
-alt="FastAPI"
-title="FastAPI" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" 
-/>
-
-<img 
-align="left" 
-alt="Git"
-title="Git" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-align="left" 
-alt="PostgreSQL"
-title="PostgreSQL" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-
-<img 
-align="left" 
-alt="GitHub"
-title="GitHub" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://www.svgrepo.com/show/394174/github.svg" 
-/>
-
-<img 
-align="left" 
-alt="Postman"
-title="Postman" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://icon.icepanel.io/Technology/svg/Postman.svg" 
-/>
-
-<br/>
 <br/>
