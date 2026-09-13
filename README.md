@@ -7,7 +7,7 @@
 **`Full Stack Developer`**
 
 # About me
-Hello! My name is **Lidyell**, I'm 17 years old and I'm from Juazeiro do Norte, Ceará, Brazil. I'm currently in my **third year of high school**, studying **Computer Science**.
+Hello! My name is **Lidyell**, I'm 17 years old and I'm from Juazeiro do Norte, Ceará, Brazil. I'm currently in my **third year of high school**, studying **IT Technician**.
 
 My current goal is to become a **Full Stack Developer**, focusing on **Java (Spring Boot) and Python (FastAPI) for Backend development**, along with modern Frontend technologies such as **JavaScript, TypeScript, React, and TailwindCSS**.
 
